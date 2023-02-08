@@ -31,4 +31,8 @@ WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS into MOVING.
 Doing so SVM gave us 100% accuracy.
 We have been finally able to provide activity output of a person along with timestamp.
 
+##Usage
+Record sensor data in Physics Toolbox Suite App after stopping the recording. You obtain a file called sensor2.csv
+Send this file to your PC and change the filepath in Project.ipynb and execute all code cells.
+
 
