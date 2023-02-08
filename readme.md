@@ -21,7 +21,7 @@ We have been finally able to provide activity output of a person along with time
 
 ## Poster
 
-(https://user-images.githubusercontent.com/91650716/149865572-ff508567-3d5b-4c4f-a7fa-f3d8f46cc135.png)
+![alt text](https://github.com/PrkRaju2003/har-amrita24-team13/blob/main/Team13_Poster.png)
 
 
 
